@@ -17,4 +17,4 @@ miZy is fully open source project. Stay in active development. Check last [https
 
     ## hyphop ##
 
-![miZy](pics/miZy.logo.bw128x64x2.png)
+![miZy](pics/miZy.logo.wb128x64x2.png)
