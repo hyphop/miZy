@@ -11,6 +11,10 @@ miZy is fully open source project. Stay in active development. Check last [https
 - [https://github.com/hyphop/miZy-uboot](https://github.com/hyphop/miZy-uboot)
 - [https://github.com/hyphop/miZy-linux-kernel](https://github.com/hyphop/miZy-linux-kernel)
 
+
+
 # AUTHOR
 
     ## hyphop ##
+
+![miZy](pics/miZy.logo.bw128x64x2.png)
