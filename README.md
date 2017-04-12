@@ -13,6 +13,6 @@ miZy is fully open source project. Stay in active development. Check last [mizy 
 
 # AUTHOR
 
-[hyphop](https://hyphop.github.io/)
+[## hyphop ##](https://hyphop.github.io/)
 
 ![miZy](pics/miZy.logo.bw128x64x2.png)
