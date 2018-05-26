@@ -1,5 +1,7 @@
 # miZy - tiny fast embedded linux
 
+![miZy - tiny fast embedded linux](pics/mizy.black.2.svg)
+
 miZy - tiny fast embedded linux for sunxi Orange Pi Zero h2 + Orange Pi Zero Plus2 h3 mods and other sunxi boards.
 miZy is fully open source project. Stay in active development. Check last [mizy news](https://hyphop.github.io/mizy/#news)
 
