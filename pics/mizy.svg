@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="769.95758"
-     inkscape:cy="204.43775"
+     inkscape:cx="534.49102"
+     inkscape:cy="261.00629"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -104,17 +104,17 @@
          id="tspan4516">                        /___/_/        </tspan><tspan
          sodipodi:role="line"
          x="-29.879465"
-         y="98.739708"
+         y="95.223732"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.11383915px;line-height:1.20000005;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono Bold';fill:#cccccc;stroke-width:0.12206034"
-         id="tspan4518">                                                      </tspan><tspan
+         id="tspan4518" /><tspan
          sodipodi:role="line"
          x="-29.879465"
-         y="109.67632"
+         y="104.84272"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.11383915px;line-height:1.20000005;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono Bold';fill:#cccccc;stroke-width:0.12206034"
-         id="tspan4520">              tiny fast embeded linux</tspan><tspan
+         id="tspan4520">              tiny fast embedded linux</tspan><tspan
          sodipodi:role="line"
          x="-29.879465"
-         y="117.09695"
+         y="112.26336"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.11383915px;line-height:1.20000005;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono Bold';fill:#cccccc;stroke-width:0.12206034"
          id="tspan4522" /></text>
   </g>
