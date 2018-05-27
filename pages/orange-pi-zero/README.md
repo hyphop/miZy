@@ -3,9 +3,12 @@
 + get it from http://www.orangepi.org/orangepizero/
 + get more info http://linux-sunxi.org/Xunlong_Orange_Pi_Zero
 
-### What’s Orange Pi Zero？
+### What’s Orange Pi Zero ?
 
-It’s an open-source single-board computer. It can run Android 4.4, Ubuntu, Debian. It uses the AllWinner H2 SoC, and has 256MB/512MB DDR3 SDRAM(256MB version is Standard version
+It’s an open-source single-board computer.
+It uses the AllWinner H2 SoC, and has 256MB/512MB DDR3 SDRAM/256MB version is Standard version
+
+![orange_pi](orangepizero_info.jpg)
 
 ### What can I do with Orange Pi Zero?
 
@@ -24,7 +27,9 @@ Pretty much anything else, because Orange Pi Zero is open source
 
 ### Who’s it for?
 
-Orange Pi Zero is for anyone who wants to start creating with technology – not just consuming it. It's a simple, fun, useful tool that you can use to start taking control of the world around you.
+Orange Pi Zero is for anyone who wants to start creating with technology 
+– not just consuming it. It's a simple, fun, useful tool that you can use 
+to start taking control of the world around you.
 
 ## Hardware specification
 
