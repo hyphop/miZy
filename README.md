@@ -29,6 +29,7 @@
 + miZy is full open source project ( 1 year more active development )
 + many other features check it https://hyphop.github.io/mizy#news
 
+
 ## Sources
 
 some parts of miZy project already is opened for public usage: 
@@ -39,6 +40,10 @@ some parts of miZy project already is opened for public usage:
 + https://github.com/hyphop/miZy-spi-image-builder
 + https://github.com/hyphop/miZy-openwrt-sdk
 + https://github.com/hyphop/miZy-builder
+
+## WiKi / Mans / Docs
+
++ https://github.com/hyphop/miZy/wiki
 
 ## lets Try 
 
