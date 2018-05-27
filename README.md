@@ -5,7 +5,7 @@
 
 ## miZy -  tiny fast embedded linux for sunxi Orange Pi devices
 
-+ Orange Pi ZeroZero h2+
++ [Orange Pi ZeroZero h2+](pages/orange-pi-zero)
 + Orange Pi Zero Plus2 h3
 + Orange Pi Zero R1
 + and other H2 H3 sunxi boards
@@ -29,6 +29,15 @@
 + miZy is full open source project ( 1 year more active development )
 + many other features check it https://hyphop.github.io/mizy#news
 
+## Plans! What to do next
+
++ next improve miZy code
++ write good wiki manuals docs and annotation
++ usage examples / more demo firmware  
++ prepare and open another miZy parts in public access as opensource
++ make bigger community - ( because now i'm only one + some users testers from hobbyist forums and sites )
++ make quality support
++ and many other
 
 ## Sources
 
