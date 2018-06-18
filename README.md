@@ -54,6 +54,10 @@ some parts of miZy project already is opened for public usage:
 
 + https://github.com/hyphop/miZy/wiki
 
+## LINKS
+
++ https://twitter.com/mizy44833849
+
 ## lets Try 
 
 some miZy firmware images in free access available for download
