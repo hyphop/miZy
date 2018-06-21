@@ -39,6 +39,12 @@
 + make quality support
 + and many other
 
+## lets Try 
+
+some miZy firmware images in free access available for download
+
+https://github.com/hyphop/miZy/releases
+
 ## Sources
 
 some parts of miZy project already is opened for public usage: 
@@ -56,13 +62,8 @@ some parts of miZy project already is opened for public usage:
 
 ## LINKS
 
-+ https://twitter.com/mizy44833849
++ https://twitter.com/mizy_linux
 
-## lets Try 
-
-some miZy firmware images in free access available for download
-
-https://github.com/hyphop/miZy/releases
 
 # AUTHOR
 
