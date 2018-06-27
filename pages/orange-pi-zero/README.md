@@ -2,6 +2,7 @@
 
 + get it from http://www.orangepi.org/orangepizero/
 + get more info http://linux-sunxi.org/Xunlong_Orange_Pi_Zero
++ sheme http://linux-sunxi.org/File:Orange-Pi-Zero-Schanetics-v1_11.pdf
 
 ### What’s Orange Pi Zero ?
 
