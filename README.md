@@ -2,6 +2,9 @@
 
 ![miZy - tiny fast embedded linux](pics/mizy.black.2.svg)
 
+## Support Us - Donate
+
++ https://hyphop.github.io/donate/
 
 ## miZy -  tiny fast embedded linux for sunxi Orange Pi devices
 
