@@ -6,12 +6,27 @@
 
 + https://hyphop.github.io/donate/
 
-## miZy -  tiny fast embedded linux for sunxi Orange Pi devices
+## miZy -  tiny fast embedded linux 
 
-+ [Orange Pi ZeroZero h2+](pages/orange-pi-zero)
-+ Orange Pi Zero Plus2 h3
-+ Orange Pi Zero R1
-+ and other H2 H3 sunxi boards
+## supported Boards
+
+miZy special optimized for Allwinner H3 H2+ (SoC features a Quad-Core Cortex-A7 ARM CPU) boards
+https://linux-sunxi.org/H2%2B#Variants
+
+### Orange Pi devices http://www.orangepi.org/
+
++ [Orange Pi ZeroZero h2+](pages/orange-pi-zero) - TESTED OK
++ Orange Pi Zero Plus2 h3 - TESTED OK
++ Orange Pi Zero R1 - TESTED OK
++ Orange Pi One	- TESTED OK
++ Orange Pi PC	- TESTED OK
++ Orange Pi PC+
++ Orange Pi Plus2E
++ Orange Pi Lite
+
++ and many other Allwinner H2+ H3 boards...
+
+**make request for test & support other boards** by email or via commit
 
 ## miZy main features
 
