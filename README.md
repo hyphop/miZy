@@ -18,17 +18,23 @@ miZy special optimized for Allwinner H3 H2+ (SoC features a Quad-Core Cortex-A7 
 + https://linux-sunxi.org/Category:H2%2B_Boards
 + https://linux-sunxi.org/H2%2B#Variants
 
-### Orange Pi devices http://www.orangepi.org/
+## Frendly Arm boards
 
 + Frendly Arm - testing ... plz wait
+
+## Orange Pi boards
+
 + [Orange Pi ZeroZero h2+](pages/orange-pi-zero) - TESTED OK
 + Orange Pi Zero Plus2 h3 - TESTED OK
 + Orange Pi Zero R1 - TESTED OK
 + Orange Pi One	- TESTED OK
 + Orange Pi PC	- TESTED OK
-+ Orange Pi PC+
-+ Orange Pi Plus2E
-+ Orange Pi Lite
++ Orange Pi PC+ - 
++ Orange Pi Plus2E -
++ Orange Pi Lite - 
++ check more there http://www.orangepi.org/
+
+## Other boards
 
 + and many other Allwinner H2+ H3 boards...
 
