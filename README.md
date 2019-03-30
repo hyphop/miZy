@@ -13,7 +13,8 @@
 ## supported Boards
 
 miZy special optimized for Allwinner H3 H2+ (SoC features a Quad-Core Cortex-A7 ARM CPU) boards
-https://linux-sunxi.org/H2%2B#Variants
+https://linux-sunxi.org/Category:H3_Boards & https://linux-sunxi.org/Category:H2%2B_Boards & https://linux-sunxi.org/H2%2B#Variants
+
 
 ### Orange Pi devices http://www.orangepi.org/
 
