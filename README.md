@@ -8,6 +8,8 @@
 
 ## miZy -  tiny fast embedded linux 
 
++ https://hyphop.github.io/mizy/
+
 ## supported Boards
 
 miZy special optimized for Allwinner H3 H2+ (SoC features a Quad-Core Cortex-A7 ARM CPU) boards
@@ -15,6 +17,7 @@ https://linux-sunxi.org/H2%2B#Variants
 
 ### Orange Pi devices http://www.orangepi.org/
 
++ Frendly Arm - testing ... plz wait
 + [Orange Pi ZeroZero h2+](pages/orange-pi-zero) - TESTED OK
 + Orange Pi Zero Plus2 h3 - TESTED OK
 + Orange Pi Zero R1 - TESTED OK
