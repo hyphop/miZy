@@ -20,7 +20,7 @@ miZy special optimized for Allwinner H3 H2+ (SoC features a Quad-Core Cortex-A7 
 
 ## Frendly Arm boards
 
-+ Frendly Arm - testing ... plz wait
++ Frendly Arm - testing ... plz wait https://github.com/hyphop/miZy/wiki/friendly-arm
 
 ## Orange Pi boards
 
