@@ -81,6 +81,10 @@ some parts of miZy project already is opened for public usage:
 
 + https://github.com/hyphop/miZy/wiki
 
+## Helper channel
+
++ https://hyphop.github.io/mizy/helper/
+
 ## LINKS
 
 + https://twitter.com/mizy_linux
