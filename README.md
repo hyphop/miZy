@@ -38,6 +38,14 @@ miZy special optimized for Allwinner H3 H2+ (SoC features a Quad-Core Cortex-A7 
 
 + and many other Allwinner H2+ H3 boards...
 
+## Partial ( NAND InProgress ) (04/30/2019)
+
++ Sunvell H3 2GB RAM + 16GB ROM TV Box
++ Original M95 PRO Android TV Box Allwinner H3
++ Wechip R69 Allwinner H3 TV Box 
++ Smart TV Box CX-968/Allwinner H3
++ MXpro Android 7.1 tv box 1g 8g Allwinner H3 
+
 **make request for test & support other boards** by email or via commit
 
 ## miZy main features
