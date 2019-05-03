@@ -44,6 +44,13 @@ board id: V96S_H28 V5.0 20180720
 + [i2s](i2s.md) - pinout scheme
 + [gpio](gpio.md) - pinout scheme
 
+# JUST TO SAY TNX ME
+
+best way to say tnx me  - this links )))
+
++ https://github.com/hyphop/miZy/wiki/Donate-&-Support-Us
++ https://hyphop.github.io/do
+
 LINKS
 
 + https://github.com/hyphop/miZy
