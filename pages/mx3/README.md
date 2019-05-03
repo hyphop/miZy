@@ -1,6 +1,9 @@
 # MX3 h3 / V96S_H28 V5.0 20180720
 
-Allwinner H3 (SoC features a Quad-Core Cortex-A7 ARM CPU)
+# miZy compitable
+
++ in test mode but FULLy workable ( without NAND - in progress )
++ https://github.com/hyphop/miZy/releases/tag/MX3
 
 ![MX3 h3 open ](pics/MX3_open.jpg)
 
@@ -39,10 +42,6 @@ board id: V96S_H28 V5.0 20180720
 
 ```
 
-# miZy
-
-+ in test mode but FULLy workable ( without NAND - in progress )
-+ https://github.com/hyphop/miZy/releases/tag/MX3
 
 # MORE details
 
