@@ -1,7 +1,6 @@
 # MX3 h3 / V96S_H28 V5.0 20180720
 
-# miZy compitable
-
++ miZy compitable: YES
 + in test mode but FULLy workable ( without NAND - in progress )
 + https://github.com/hyphop/miZy/releases/tag/MX3
 
