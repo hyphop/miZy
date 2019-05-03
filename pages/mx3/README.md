@@ -2,7 +2,7 @@
 
 Allwinner H3 (SoC features a Quad-Core Cortex-A7 ARM CPU)
 
-![MX3 h3 open ](pics/MX3_open.svg)
+![MX3 h3 open ](pics/MX3_open.jpg)
 
 ```
 
@@ -40,8 +40,8 @@ board id: V96S_H28 V5.0 20180720
 
 # MORE details
 
-[i2s](i2s.md)
-[gpio](gpio.md)
++ [i2s](i2s.md) - pinout scheme
++ [gpio](gpio.md) - pinout scheme
 
 LINKS
 
