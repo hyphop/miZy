@@ -39,6 +39,11 @@ board id: V96S_H28 V5.0 20180720
 
 ```
 
+# miZy
+
++ in test mode but FULLy workable ( without NAND - in progress )
++ https://github.com/hyphop/miZy/releases/tag/MX3
+
 # MORE details
 
 + [i2s](i2s.md) - pinout scheme
@@ -51,7 +56,7 @@ best way to say tnx me  - this links )))
 + https://github.com/hyphop/miZy/wiki/Donate-&-Support-Us
 + https://hyphop.github.io/do
 
-LINKS
+# LINKS
 
 + https://github.com/hyphop/miZy
 + https://ru.aliexpress.com/item/SKhynix-TSOP-48-8GB-H27UCG8T2ETR-BC-H27UCG8T2ETR-BC-H27UCGBT2ETR-NEW-ORIGINAL-2PCS-LOT/32349899903.html
