@@ -12,13 +12,13 @@ SOC: Allwinner H3 (SoC features a Quad-Core Cortex-A7 ARM CPU)
 
 RAM: 1G (4x256)
 
-3x USB (1 USB OTG near SD card slot)
+3x USB (2xUSB + USB/OTG its same TYPE-A - near SD card slot)
 SPDIF:	optical
 HDMI:	1 (cable included)
 
 FLASH: internal storage 8G NAND FLASH: sk hynix h27ucg8t2etr 
 
-MMC: sd card
+MMC: MicroSD card
 
 WIFI: XR819 2.4Ghz
 
