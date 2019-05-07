@@ -57,4 +57,8 @@ best way to say tnx me  - this links )))
 # LINKS
 
 + https://github.com/hyphop/miZy
++ https://ru.aliexpress.com/premium/Vmade-v96S.html?SearchText=Vmade+v96S
+<!--
++ https://ru.aliexpress.com/item/H3-Ultimate-Box-Android-7-0-Allwinner-H3-Quad-core-Cortex-A7/32909184859.html
 + https://ru.aliexpress.com/item/SKhynix-TSOP-48-8GB-H27UCG8T2ETR-BC-H27UCG8T2ETR-BC-H27UCGBT2ETR-NEW-ORIGINAL-2PCS-LOT/32349899903.html
+-->
