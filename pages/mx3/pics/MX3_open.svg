@@ -1265,6 +1265,36 @@
            inkscape:transform-center-x="157.71755" />
       </g>
     </pattern>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker21526-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#ff3700;fill-opacity:0.6745098;fill-rule:evenodd;stroke:#2a2a2a;stroke-width:1.00000003pt;stroke-opacity:0.47169812"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path21524-5" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10288-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10286-5"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ff3700;fill-opacity:0.6745098;fill-rule:evenodd;stroke:#2a2a2a;stroke-width:1.00000003pt;stroke-opacity:0.47169812"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -1276,12 +1306,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1049"
+     inkscape:window-height="1021"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.2912118"
-     inkscape:cx="590.52098"
-     inkscape:cy="272.47907"
+     inkscape:zoom="1.0907209"
+     inkscape:cx="327.38274"
+     inkscape:cy="798.2848"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1338,22 +1368,22 @@
       <image
          sodipodi:absref="/mnt/temp/githup/hyphop/miZy/pages/mx3/pics/MX3_open_top.small.jpg"
          xlink:href="MX3_open_top.small.jpg"
-         y="92.386284"
-         x="102.33983"
-         id="image1792"
-         preserveAspectRatio="none"
+         width="462.44031"
          height="480.74524"
-         width="462.44031" />
+         preserveAspectRatio="none"
+         id="image1792"
+         x="102.33983"
+         y="92.386284" />
       <image
          sodipodi:absref="/mnt/temp/githup/hyphop/miZy/pages/mx3/pics/MX3_open_back.small.jpg"
          xlink:href="MX3_open_back.small.jpg"
-         transform="rotate(-90)"
-         y="114.06859"
-         x="-1121.9153"
-         id="image1874"
-         preserveAspectRatio="none"
+         width="453.7489"
          height="440.98718"
-         width="453.7489" />
+         preserveAspectRatio="none"
+         id="image1874"
+         x="-1121.9153"
+         y="114.06859"
+         transform="rotate(-90)" />
     </g>
   </g>
   <g
@@ -1711,6 +1741,12 @@
          id="path887-3"
          d="m 570.35702,760.80983 -40.25083,17.52418"
          style="fill:#ff3700;fill-opacity:0.6745098;stroke:#2a2a2a;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47169812;marker-start:url(#marker21986-3);marker-end:url(#marker10580-7)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path889-6"
+         d="m 43.60091,161.93542 282.41249,37.1811"
+         style="fill:#ff3700;fill-opacity:0.6745098;stroke:#2a2a2a;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47169812;marker-start:url(#marker21526-7);marker-end:url(#marker10288-3)"
+         sodipodi:nodetypes="cc" />
     </g>
     <g
        id="g34811"
@@ -1754,6 +1790,19 @@
            x="727.65771"
            sodipodi:role="line" /></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:74.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="11.660156"
+       y="146.0703"
+       id="text1909-7-6-9-2-3"><tspan
+         sodipodi:role="line"
+         x="11.660156"
+         y="146.0703"
+         style="font-size:26.66666603px;fill:#ffffff"
+         id="tspan1583">FEL<tspan
+   style="font-size:13.33333333px"
+   id="tspan1587">mode</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

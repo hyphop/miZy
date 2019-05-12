@@ -34,6 +34,8 @@ UART:	serial
 
 IR: 31keys ( RC included )
 
+FEL: fel mode activator button inside AV(cvbs) hole
+
 CASE: plastic box 
 
 board id: V96S_H28 V5.0 20180720
