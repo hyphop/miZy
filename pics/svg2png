@@ -1,0 +1,6 @@
+#!/bin/sh
+
+## hyphop ##
+
+inkscape "$1" -b white -e "${1%.svg}.png"
+

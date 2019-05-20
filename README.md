@@ -24,7 +24,7 @@ miZy special optimized for Allwinner H3 H2+ (SoC features a Quad-Core Cortex-A7 
 
 ## Orange Pi boards
 
-+ [Orange Pi ZeroZero h2+](pages/orange-pi-zero) - TESTED OK
++ [Orange Pi Zero h2+](pages/orange-pi-zero) - TESTED OK
 + Orange Pi Zero Plus2 h3 - TESTED OK
 + Orange Pi Zero R1 - TESTED OK
 + Orange Pi One	- TESTED OK
