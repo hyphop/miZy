@@ -2,5 +2,12 @@
 
 ## hyphop ##
 
-inkscape "$1" -b white -e "${1%.svg}.png"
+in="$1"
+
+shift
+
+echo "[i] svg => png | $in => ${in%.svg}.png + $@">&2
+
+inkscape "$in" -b white -e "${in%.svg}.png" "$@"
+
 
