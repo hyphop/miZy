@@ -44,9 +44,9 @@
      inkscape:window-height="1049"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.480604"
-     inkscape:cx="1142.5819"
-     inkscape:cy="294.72051"
+     inkscape:zoom="0.55593419"
+     inkscape:cx="943.8305"
+     inkscape:cy="517.76024"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -59,6 +59,16 @@
      id="layer2"
      inkscape:label="bg">
     <image
+       sodipodi:absref="/mnt/temp/githup/hyphop/miZy/pics/boards/orange_pi_pc_plus_v1.png"
+       xlink:href="boards/orange_pi_pc_plus_v1.png"
+       width="580.38513"
+       height="417.8046"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image935"
+       x="510.3717"
+       y="684.64081" />
+    <image
        sodipodi:absref="/mnt/temp/githup/hyphop/miZy/pics/boards/orange_pi_zero_plus2_h3.jpg"
        xlink:href="boards/orange_pi_zero_plus2_h3.jpg"
        y="559.76813"
@@ -70,21 +80,30 @@
     <image
        sodipodi:absref="/mnt/temp/githup/hyphop/miZy/pics/boards/orange_pi_lite.jpg"
        xlink:href="boards/orange_pi_lite.jpg"
-       y="1381.5764"
-       x="-155.77551"
+       y="1315.6927"
+       x="-845.9848"
        id="image5528"
        preserveAspectRatio="none"
        height="444"
        width="638.66669" />
     <image
-       sodipodi:absref="/mnt/temp/githup/hyphop/miZy/pics/boards/orange_pi_pc_plus_v1.jpg"
-       xlink:href="boards/orange_pi_pc_plus_v1.jpg"
-       y="635.31012"
-       x="470.5437"
-       id="image5506"
+       sodipodi:absref="/mnt/temp/githup/hyphop/miZy/pics/boards/orange_pi_one.jpg"
+       xlink:href="boards/orange_pi_one.jpg"
+       y="656.64081"
+       x="-21.208321"
+       id="image5517"
        preserveAspectRatio="none"
-       height="650.84607"
-       width="650.84607" />
+       height="465.3251"
+       width="531.58002" />
+    <image
+       sodipodi:absref="/mnt/temp/githup/hyphop/miZy/pics/boards/nanopi_neo.jpg"
+       xlink:href="boards/nanopi_neo.jpg"
+       y="526.9339"
+       x="1014.5898"
+       id="image5539"
+       preserveAspectRatio="none"
+       height="238.82565"
+       width="259.65347" />
     <image
        sodipodi:absref="/mnt/temp/githup/hyphop/miZy/pics/boards/orange_pi_r1.png"
        xlink:href="boards/orange_pi_r1.png"
@@ -96,47 +115,32 @@
        height="162.22655"
        width="187.29604" />
     <image
-       sodipodi:absref="/mnt/temp/githup/hyphop/miZy/pics/boards/orange_pi_one.jpg"
-       xlink:href="boards/orange_pi_one.jpg"
-       y="664.64081"
-       x="-19.208321"
-       id="image5517"
+       sodipodi:absref="/mnt/temp/githup/hyphop/miZy/pics/boards/orange_pi_zero.png"
+       xlink:href="boards/orange_pi_zero.png"
+       y="385.20923"
+       x="382.16675"
+       id="image4764"
+       style="opacity:1;image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
-       height="465.3251"
-       width="531.58002" />
-    <image
-       sodipodi:absref="/mnt/temp/githup/hyphop/miZy/pics/boards/orange_pi_zero.jpg"
-       xlink:href="boards/orange_pi_zero.jpg"
-       y="343.03018"
-       x="351.87561"
-       id="image5484"
-       preserveAspectRatio="none"
-       height="429.14035"
-       width="429.14035" />
-    <image
-       sodipodi:absref="/mnt/temp/githup/hyphop/miZy/pics/boards/nanopi_neo.jpg"
-       xlink:href="boards/nanopi_neo.jpg"
-       y="498.57935"
-       x="962.45959"
-       id="image5539"
-       preserveAspectRatio="none"
-       height="243.85864"
-       width="265.1254" />
+       height="399.14288"
+       width="314.23117" />
     <image
        sodipodi:absref="/mnt/temp/githup/hyphop/miZy/pics/boards/nanopi-air.png"
        xlink:href="boards/nanopi-air.png"
-       y="1455.7253"
-       x="757.04034"
-       id="image5550"
-       style="image-rendering:optimizeSpeed"
+       width="379.78845"
+       height="325.16577"
        preserveAspectRatio="none"
-       height="184.53604"
-       width="215.53516" />
+       style="opacity:0.46799999;image-rendering:optimizeSpeed"
+       id="image5550"
+       x="-1641.2234"
+       y="572.73975"
+       transform="rotate(-143.38012)" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="header">
+     inkscape:label="header"
+     sodipodi:insensitive="true">
     <g
        transform="translate(-5.8546825,-13.660931)"
        id="g5606">
