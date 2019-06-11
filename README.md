@@ -93,6 +93,9 @@ some parts of miZy project already is opened for public usage:
 + https://github.com/hyphop/miZy-spi-image-builder
 + https://github.com/hyphop/miZy-openwrt-sdk
 + https://github.com/hyphop/miZy-builder
++ https://github.com/hyphop/miZy-tools
++ https://github.com/hyphop/miZy-busybox
+
 
 ## WiKi / Mans / Docs
 
