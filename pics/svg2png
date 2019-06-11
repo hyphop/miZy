@@ -10,4 +10,8 @@ echo "[i] svg => png | $in => ${in%.svg}.png + $@">&2
 
 inkscape "$in" -b white -e "${in%.svg}.png" "$@"
 
+s=1024
+convert "${in%.svg}.png" -resize $s "${in%.svg}.gif"
+convert "${in%.svg}.png" -resize $s "${in%.svg}.1024.png"
+
 

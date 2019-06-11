@@ -1,0 +1,13 @@
+#!/bin/sh
+
+## hyphop ##
+## git commit automate 
+
+msg="$@"
+
+[ "$msg" = "" ] && msg=`date`
+
+echo "git add -A && git commit -m $msg && git push"
+
+git add -A && git commit -m "$msg" && git push
+

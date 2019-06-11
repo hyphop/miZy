@@ -1,6 +1,6 @@
 # [miZy - tiny fast embedded linux](https://hyphop.github.io/mizy/)
 
-![miZy - tiny fast embedded linux](pics/mizy.black.1.png)
+![miZy - tiny fast embedded linux](pics/mizy_linux.gif)
 
 ## Support Us - Donate
 
