@@ -77,11 +77,12 @@ miZy special optimized for Allwinner H3 H2+ (SoC features a Quad-Core Cortex-A7 
 + make quality support
 + and many other
 
-## lets Try 
+## lets Try
 
 some miZy firmware images in free access available for download
 
-https://github.com/hyphop/miZy/releases
++ https://github.com/hyphop/miZy/releases
++ https://github.com/hyphop/miZy-images-collection
 
 ## Sources
 
@@ -94,6 +95,7 @@ some parts of miZy project already is opened for public usage:
 + https://github.com/hyphop/miZy-openwrt-sdk
 + https://github.com/hyphop/miZy-builder
 + https://github.com/hyphop/miZy-tools
++ https://github.com/hyphop/miZy-images-collection
 + https://github.com/hyphop/miZy-busybox
 
 
