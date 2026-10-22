@@ -1,0 +1,3 @@
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/Eden-Sun/miZy-linux-kernel.git

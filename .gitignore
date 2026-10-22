@@ -2,3 +2,19 @@ git_*
 syncit*
 rel*
 docs*
+!/docs/
+!/docs/**
+
+# Device backups and provisioned images may contain credentials and host keys.
+/artifacts/
+/backups/
+/downloads/
+/build/
+*.img
+*.img.xz
+*.itb
+*.ipk
+*.apk
+__pycache__/
+*.pyc
+.DS_Store
